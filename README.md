@@ -1,16 +1,20 @@
 Clone the project into local
+
 Go into the wallpaperApp folder and run the following command to install all npm packages
-##npm install 
+npm install 
+
 Go into the backendAPI folder and run the following command to install all npm packages
-##npm install 
+npm install 
+
 In order to run the application run the following command in backendAPI folder
-##npm start
+npm start
 The Application will Runs on localhost:3000
+
 In order to run the application run the following command in wallpaperApp folder
-##npm start
+npm start
 The Application will Runs on localhost:3001
 
-##create the database in mysql
+create the database in mysql
 database name:test
 
 make table signup using query
