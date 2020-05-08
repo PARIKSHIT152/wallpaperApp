@@ -12,14 +12,14 @@ In order to run the application run the following command in backendAPI folder
 
 npm start
 
-The Application will Runs on localhost:3000
+The Application will Run on localhost:3000
 
 
 In order to run the application run the following command in wallpaperApp folder
 
 npm start
 
-The Application will Runs on localhost:3001
+The Application will Run on localhost:3001
 
 create the database in mysql
 
